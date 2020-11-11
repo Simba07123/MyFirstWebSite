@@ -31,8 +31,8 @@ nav a:link,
 nav a:visited {
     text-decoration: none;
     padding: 0.5rem;
-    background-color: #802808;
-    color: #ebe6dc;
+    background-color: black;
+    color: white;
 }
 
 nav a:hover,
