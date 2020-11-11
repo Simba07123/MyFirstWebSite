@@ -13,8 +13,8 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 8px;
-    background-color: black;
-    color: red;
+    background-color: white;
+    color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -48,7 +48,7 @@ nav a:active {
 h1,
 h2,
 h3 {
-    color: red;
+    color: black;
 }
 
 h1 {
@@ -60,12 +60,12 @@ h1 {
 
 a:link,
 a:visited {
-    color: red;
+    color: blue;
 }
 
 a:hover,
 a:active {
-    color: red;
+    color: purple;
     background-color: #FC6;
 }
 
