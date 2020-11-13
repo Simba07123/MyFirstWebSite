@@ -14,7 +14,7 @@ body {
     margin: 0 auto;
     padding: 0 8px;
     background-color: black;
-    color: #AF0000;
+    color: #FF0000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -52,7 +52,7 @@ h3 {
 }
 
 h1 {
-    border-bottom: 4px double #AF0000;
+    border-bottom: 4px double #FF0000;
     font-style: italic;
     font-size: 3rem;
     text-align: center;
@@ -85,6 +85,6 @@ img {
 footer {
     clear: both;
     margin-top: 2rem;
-    border-top:1px solid #AF0000;
+    border-top:1px solid #FF0000;
     font-style: italic;
 }
