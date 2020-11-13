@@ -14,7 +14,7 @@ body {
     margin: 0 auto;
     padding: 0 8px;
     background-color: black;
-    color: red;
+    color: #AF0000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -48,11 +48,11 @@ nav a:active {
 h1,
 h2,
 h3 {
-    color: red;
+    color: #AF0000;
 }
 
 h1 {
-    border-bottom: 4px double #802808;
+    border-bottom: 4px double #AF0000;
     font-style: italic;
     font-size: 3rem;
     text-align: center;
@@ -85,6 +85,6 @@ img {
 footer {
     clear: both;
     margin-top: 2rem;
-    border-top:1px solid #666666;
+    border-top:1px solid #AF0000;
     font-style: italic;
 }
