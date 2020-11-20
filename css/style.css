@@ -35,7 +35,7 @@ nav a:visited {
     color: black;
 }
 
-nav a:hover,
+nav a:hover #AF0000;
 nav a:active {
     background-color: red;
     color: black;
