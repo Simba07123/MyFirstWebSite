@@ -14,7 +14,7 @@ body {
     margin: 0 auto;
     padding: 0 8px;
     background-color: black;
-    color: #FF0000;
+    color: #5900FF;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -37,11 +37,11 @@ nav a:visited {
 
 nav a:hover,
 nav a:active {
-    background-color: red;
+    background-color: #5900FF;
     color: black;
 }
 #thisPage {
-    background-color: #AF0000;
+    background-color: #4700CA;
     color: black;
 }
 
