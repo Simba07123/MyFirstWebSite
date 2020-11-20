@@ -60,12 +60,12 @@ h1 {
 
 a:link,
 a:visited {
-    color: blue;
+    color: #5900FF;
 }
 
 a:hover,
 a:active {
-    color: purple;
+    color: black;
     background-color: #4700CA;
 }
 
